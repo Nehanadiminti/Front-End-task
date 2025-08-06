@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1, h2 {
+  font-weight: 600;
+}
+
+#home {
+  background-image: linear-gradient(to right, #f7f9fc, #e0f7fa);
+}
+
+form input, form textarea {
+  border-radius: 6px;
+}
+
+footer {
+  font-size: 0.9rem;
+}
+.btn-primary {
+  color: black;
+}
